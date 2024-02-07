@@ -47,4 +47,3 @@ dependencies:
       - six==1.16.0
       - sounddevice==0.4.6
       - zipp==3.17.0
-prefix: C:\Users\alexe\anaconda3\envs\cv
