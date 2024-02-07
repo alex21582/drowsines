@@ -2,5 +2,5 @@
 The software monitors a person's condition using computer vision. It provides detection of a person's face in the frame, closing the eyes and yawning.
 
 ### How to use it?
-1. git clone
+1. git clone https://github.com/alex21582/drowsines.git
 2. conda env create -f environment.yml
